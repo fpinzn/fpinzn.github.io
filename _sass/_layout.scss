@@ -8,6 +8,15 @@
         background-position: center -170px;
         background-attachment: fixed;
 
+        svg{
+            width: 10%;
+            min-width: 150px;
+            margin: 0 auto;
+            path{
+                fill: white;
+            }
+        }
+
         @include media-query($on-palm) {
             min-height: 250px;
             background-position: center -250px;
@@ -16,16 +25,11 @@
 
     .site-header a, a h1:hover {color: #FFF};
 
-    .site-header h1 {
+    .site-logo {
         display: block;
-        font-size: 80px !important;
-        line-height: 80px;
-        letter-spacing: 3px;
         text-align: center;
         padding-top: 20px;
         clear: both;
-        text-transform: uppercase;
-        font-family: 'Open Sans';
 
         @include media-query($on-palm) {
             font-size:60px !important;
@@ -34,7 +38,6 @@
     }
 
     .site-header span {
-        border: 10px solid #FFF;
         padding: 0.3em 0.5em;
         margin: 10px 20px;
         display: inline-block;
@@ -49,7 +52,7 @@
         float: right;
         line-height: 56px;
         margin-right: 25px;
-        padding-bottom: 100px;
+        // padding-bottom: 100px;
 
         .page-link {
             line-height: $base-line-height;
@@ -70,6 +73,48 @@
         }
     }
 
+    p{
+        max-width: 400px;
+    }
+
+    img.center{
+        margin:auto;
+        max-width: 400px;
+        display: block;
+    }
+
+    .home{
+        text-align: center;
+    }
+
+    .portfolio-link{
+        font-size: 2em;
+        &:hover{
+            font-size: 1.9em;
+        }
+    }
+    .carousel{
+        display: block;
+        width: 75%;
+        margin: 0 auto;
+
+        &.app{
+            padding: 0 100px;
+
+        }
+
+        .slick-arrow::before{
+            color: $brand-color;
+        }
+    }
+    .carousel-caption{
+        text-align: center;
+        font-size: 0.8em;
+        margin-bottom: 3em;
+    }
+    .slick-slider{
+        margin-bottom: 5px;
+    }
 /* Site Footer
  * ============================================== */
     .footer {
