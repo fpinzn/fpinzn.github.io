@@ -78,7 +78,7 @@ From the few logos I've designed this is by far the one I like the most.
 
 
 # Vlipco
-#### Cofounder · CTO · 3 Designer · Frontend Engineer · Animator · Illustrator
+#### Cofounder · CTO · UI Designer · Frontend Engineer · Animator · Illustrator
 
 <div class='carousel'>
     <img src='/assets/apps/vlipco/vlipco0.png'>
