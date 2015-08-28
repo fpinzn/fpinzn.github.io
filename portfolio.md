@@ -22,7 +22,7 @@ permalink: /Portfolio/
 </div>
 <div class='carousel-caption'>Mid-res mockups of the app made in Sketch.</div>
 
-mmotel is a web application for booking motel rooms in Colombia. Is currently under active development.
+mmotel is a web application for booking motel rooms in Colombia. It is currently under active development.
 
 The logo, ui design and the final frontend version are made by me. The first version of the frontend was a learning exercise on frontend technologies for a developer friend. The backend runs in [Parse]()
 
@@ -76,7 +76,7 @@ From the few logos I've designed this is by far the one I like the most.
 
 
 # Vlipco
-#### Cofounder · CTO · UI Designer · Frontend Engineer · illustator
+#### Cofounder · CTO · UI Designer · Frontend Engineer · Animator · Illustrator
 
 <div class='carousel'>
     <img src='/projects/apps/vlipco/vlipco0.png'>
@@ -95,7 +95,7 @@ From the few logos I've designed this is by far the one I like the most.
 </div>
 <div class="carousel-caption"> Screenshots of the checkout process</div>
 
-Founded in 2011 Vlipco pretended to balance the online payment panorama in Colombia, so small business could also take part of the huge acceleration of the local e-commerce.
+Founded in 2011 Vlipco pretended to balance the online payment panorama in Colombia, so small businesses could also take part of the huge acceleration of the local e-commerce.
 
 I worked there until July 2014. As a cofounder I worked on lots of different things: coding both frontend and backend, designing UI, documents and presentations, raising capital and whatnot.
 
@@ -112,7 +112,7 @@ https://vlipco.wistia.com/medias/dx8ky9uyhz
 # Fundación Help
 #### CTO  · All things technical
 
-Launched in February 2015, Fundación Help is the first crowdfunding platform to help students with financial difficulties complete their higher education in Colombia.
+Launched in February 2015, Fundación Help is the first crowdfunding platform that help students with financial difficulties to complete their higher education in Colombia.
 
 So far we've raised money to help four students finish their undergrad studies. The second round is to be started within a month to help three new students.
 
@@ -132,9 +132,9 @@ The page isn't public yet due to integration issues with the payment platform.
 
 # Misc
 
-### Illustration - Graphics
+### Illustration
 
-I like to draw in my free time, I even switched one semester to Arts just to went back to Systems Engineering!
+I like to draw in my free time, I even switched one semester to Arts just to go back to Systems Engineering!
 
 <div class='carousel app'>
     <img src='/projects/others/TBF/paramo.png'>
