@@ -3,7 +3,7 @@ layout: default
 title: Portfolio
 permalink: /Portfolio/
 ---
-If your into CVs you can download mine <a href='/assets/CV+eng.pdf'>here</a>
+If you are into CVs you can download mine <a href='/assets/CV+eng.pdf'>here</a>
 
 # mmotel
 #### Founder · Branding · UI Designer · Frontend Engineer
