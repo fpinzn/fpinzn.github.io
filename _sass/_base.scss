@@ -92,7 +92,7 @@
 
 /* Links
  * ============================================== */
-    a {
+    p > a, a.negative {
         color: white;
         background-color: lighten($brand-color, 10%);
         text-decoration: none;

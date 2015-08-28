@@ -3,35 +3,37 @@ layout: default
 title: Portfolio
 permalink: /Portfolio/
 ---
+If your into CVs you can download mine <a href='/assets/CV+eng.pdf'>here</a>
+
 # mmotel
 #### Founder · Branding · UI Designer · Frontend Engineer
 
 
 <div class='carousel app'>
-    <img src='/projects/apps/mmotel/app0.png'>
-    <img src='/projects/apps/mmotel/app1.png'>
-    <img src='/projects/apps/mmotel/app2.png'>
-    <img src='/projects/apps/mmotel/app3.png'>
+    <img src='/assets/apps/mmotel/app0.png'>
+    <img src='/assets/apps/mmotel/app1.png'>
+    <img src='/assets/apps/mmotel/app2.png'>
+    <img src='/assets/apps/mmotel/app3.png'>
 </div>
 <div class='carousel-caption'>Mid-res mockups of the app made in Sketch.</div>
 
 <div class='carousel'>
-    <img src='/projects/apps/mmotel/web0.png'>
-    <img src='/projects/apps/mmotel/web1.png'>
-    <img src='/projects/apps/mmotel/web2.png'>
+    <img src='/assets/apps/mmotel/web0.png'>
+    <img src='/assets/apps/mmotel/web1.png'>
+    <img src='/assets/apps/mmotel/web2.png'>
 </div>
 <div class='carousel-caption'>Mid-res mockups of the app made in Sketch.</div>
 
 mmotel is a web application for booking motel rooms in Colombia. It is currently under active development.
 
-The logo, ui design and the final frontend version are made by me. The first version of the frontend was a learning exercise on frontend technologies for a developer friend. The backend runs in [Parse]()
+The logo, ui design and the final frontend version are made by me. The first version of the frontend was a learning exercise on frontend technologies for a developer friend. The backend runs in Parse.
 
 
 
 # auxo
 #### Frontend Engineer mostly
 
- Development Agency focused on web and mobile apps based in Bogotá, Colombia. I worked for them for almost a year in several projects.
+ Development Agency focused on web and mobile apps based in Bogotá, Colombia. I worked for them for almost a year in several assets.
 
 ##### Appto
 An online real estate agency. https://appto.co/ I did the first web prototype almost a year ago. It has come a long way since then.
@@ -44,7 +46,7 @@ Exterior advertisement monitoring.
 
  * I also did a AWS Lambda function to correct the rotation EXIF information so the photo would appear correctly positioned wherever it was displayed. You can check the code here:
 
- * I built two BIRT reports to display the collected information in a Business Intelligence manner. You can check one of those [here](/projects/others/belleza.pdf).
+ * I built two BIRT reports to display the collected information in a Business Intelligence manner. You can check one of those [here](/assets/others/belleza.pdf).
 
  * Since BIRT required the maps in the reports to be static images, I developed an Express url based API to connect to a PhantomJS instance that consumed an AngularJS application that displayed the markers/heatmaps using the Google Maps JS API. It was fun.
 
@@ -54,11 +56,11 @@ Exterior advertisement monitoring.
 #### Branding · UI designer · Fronted Engineer
 
 <div class='carousel'>
-    <img src='/projects/apps/ae/ae1.png'>
-    <img src='/projects/apps/ae/ae2.png'>
-    <img src='/projects/apps/ae/ae3.png'>
-    <img src='/projects/apps/ae/ae4.png'>
-    <img src='/projects/apps/ae/ae5.png'>
+    <img src='/assets/apps/ae/ae1.png'>
+    <img src='/assets/apps/ae/ae2.png'>
+    <img src='/assets/apps/ae/ae3.png'>
+    <img src='/assets/apps/ae/ae4.png'>
+    <img src='/assets/apps/ae/ae5.png'>
 </div>
 <div class="carousel-caption"> Screenshots from the browser of the later prototypes.</div>
 
@@ -76,22 +78,22 @@ From the few logos I've designed this is by far the one I like the most.
 
 
 # Vlipco
-#### Cofounder · CTO · UI Designer · Frontend Engineer · Animator · Illustrator
+#### Cofounder · CTO · 3 Designer · Frontend Engineer · Animator · Illustrator
 
 <div class='carousel'>
-    <img src='/projects/apps/vlipco/vlipco0.png'>
-    <img src='/projects/apps/vlipco/vlipco1.png'>
-    <img src='/projects/apps/vlipco/vlipco2.png'>
+    <img src='/assets/apps/vlipco/vlipco0.png'>
+    <img src='/assets/apps/vlipco/vlipco1.png'>
+    <img src='/assets/apps/vlipco/vlipco2.png'>
 </div>
 
 <div class="carousel-caption"> High-res mockups made in sketch</div>
 
 <div class='carousel'>
-    <img src='/projects/apps/vlipco/checkout0.png'>
-    <img src='/projects/apps/vlipco/checkout1.png'>
-    <img src='/projects/apps/vlipco/checkout2.png'>
-    <img src='/projects/apps/vlipco/checkout3.png'>
-    <img src='/projects/apps/vlipco/checkout4.png'>
+    <img src='/assets/apps/vlipco/checkout0.png'>
+    <img src='/assets/apps/vlipco/checkout1.png'>
+    <img src='/assets/apps/vlipco/checkout2.png'>
+    <img src='/assets/apps/vlipco/checkout3.png'>
+    <img src='/assets/apps/vlipco/checkout4.png'>
 </div>
 <div class="carousel-caption"> Screenshots of the checkout process</div>
 
@@ -100,7 +102,7 @@ Founded in 2011 Vlipco pretended to balance the online payment panorama in Colom
 I worked there until July 2014. As a cofounder I worked on lots of different things: coding both frontend and backend, designing UI, documents and presentations, raising capital and whatnot.
 
 
-The checkout displayed before is one of the projects I feel proudest of. The final version weighted less than 300kB, and even the font files were optimized to keep only the used glyphs. Sadly due to business reasons it never touched a single user.
+The checkout displayed before is one of the assets I feel proudest of. The final version weighted less than 300kB, and even the font files were optimized to keep only the used glyphs. Sadly due to business reasons it never touched a single user.
 
 
 __Second Round Investment Video__
@@ -137,15 +139,15 @@ The page isn't public yet due to integration issues with the payment platform.
 I like to draw in my free time, I even switched one semester to Arts just to go back to Systems Engineering!
 
 <div class='carousel app'>
-    <img src='/projects/others/TBF/paramo.png'>
-    <img src='/projects/others/TBF/ovni.png'>
-    <img src='/projects/others/TBF/varita2.png'>
+    <img src='/assets/others/TBF/paramo.png'>
+    <img src='/assets/others/TBF/ovni.png'>
+    <img src='/assets/others/TBF/varita2.png'>
 </div>
 <div class="carousel-caption">Illustations for The Blank Factory website</div>
 
 This was a piece created by a generative algorithm I wrote. I also took the photo.
 
-<div><img class='center' src='/projects/others/bobo.png'></div>
+<div><img class='center' src='/assets/others/bobo.png'></div>
 
 
 
@@ -159,7 +161,7 @@ Selected to be made on the "Interactivos? 2010" held in Belo Horizonte, Brazil. 
 The machine stopped working after two days in a gallery with public access.
 You can check the reel of the event, shortly featuring yours truly, here: https://vimeo.com/28113893
 
-<div><img class='center' src='/projects/others/analogue/final.jpg'></div>
+<div><img class='center' src='/assets/others/analogue/final.jpg'></div>
 
 
 ### CSSP

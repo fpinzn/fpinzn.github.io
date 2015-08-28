@@ -1,0 +1,53 @@
+p{
+	max-width: 400px;
+}
+
+img.center{
+	margin:auto;
+	max-width: 400px;
+	display: block;
+}
+
+.home{
+	text-align: center;
+}
+
+a.huge-link{
+	font-size: 2em;
+	&:hover{
+		font-size: 1.9em;
+	}
+}
+.carousel{
+	display: block;
+	width: 75%;
+	margin: 0 auto;
+
+	&.app{
+		padding: 0 100px;
+
+	}
+
+	.slick-arrow::before{
+		color: $brand-color;
+	}
+}
+.carousel-caption{
+	text-align: center;
+	font-size: 0.8em;
+	margin-bottom: 3em;
+}
+.slick-slider{
+	margin-bottom: 5px;
+}
+
+.site-header {
+    svg{
+        width: 10%;
+        min-width: 150px;
+        margin: 0 auto;
+        path{
+            fill: white;
+        }
+    }
+}
